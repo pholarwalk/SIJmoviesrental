@@ -723,7 +723,7 @@ button:hover{
     opacity:0;
     
 }
-#one:hover,  #two:hover,#three:hover,#four:hover,#five:hover{
+#one:hover,  #two:hover,#three:hover,#four:hover,#five:hover,#six:hover,#seven:hover,#eight:hover,#nine:hover,#ten:hover,#eleven:hover{
     opacity:1;
 }
 #two{
@@ -773,4 +773,373 @@ button:hover{
     color: white;
     opacity:0;
 
+}
+#six{
+    position: absolute;    
+    left: 580px;
+    top: 810px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#seven{
+    position: absolute;    
+    left: 840px;
+    top: 810px;
+    width: 200px;;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#eight{
+    position: absolute;    
+    left: 1100px;
+    top: 810px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#nine{
+    position: absolute;    
+    left: 320px;
+    top: 1240px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#ten{
+    position: absolute;    
+    left: 580px;
+    top: 1230px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+   opacity:0;
+}
+#eleven{
+    position: absolute;    
+    left: 840px;
+    top: 1230px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#twelve{
+    position: absolute;    
+    left: 1100px;
+    top: 1230px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#twelve:hover,#thirteen:hover,#fourteen:hover,#fifteen:hover,#sixteen:hover,#seventeen:hover,#eighteen:hover,#nineteen:hover,#twenty:hover,#twentyone:hover,#twentytwo:hover,#twentythree:hover,#twentyfour:hover{
+    opacity:1;
+}
+#thirteen{
+    position: absolute;    
+    left: 330px;
+    top: 1670px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+     opacity:0;
+}
+#fourteen{
+    position: absolute;    
+    left: 580px;
+    top: 1670px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#fifteen{
+    position: absolute;    
+    left: 830px;
+    top: 1670px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+
+}
+#sixteen{
+    position: absolute;    
+    left: 1100px;
+    top: 1680px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#seventeen{
+    position: absolute;    
+    left: 340px;
+    top: 2110px;
+    width: 200px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#eighteen{
+    position: absolute;    
+    left: 580px;
+    top: 2130px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#nineteen{
+    position: absolute;    
+    left: 840px;
+    top: 2130px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#twenty{
+    position: absolute;    
+    left: 1100px;
+    top: 2130px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#twentyone{
+    position: absolute;    
+    left: 320px;
+    top: 2550px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+
+}
+#twentytwo{
+    position: absolute;    
+    left: 570px;
+    top: 2570px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#twentythree{
+    position: absolute;    
+    left: 840px;
+    top: 2570px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
+#twentyfour{
+    position: absolute;    
+    left: 1090px;
+    top: 2570px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+#twentyfive{
+    position: absolute;    
+left: 330px;
+top: 3000px;
+width: 200px;
+border-radius: 10px;
+font-weight: 900;
+background: black;
+color:white;
+opacity:0;
+
+}
+#twentysix{
+    position: absolute;    
+    left: 580px;
+    top: 3000px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;
+
+}
+#twentyseven{
+    position: absolute;    
+    left: 850px;
+    top: 3000px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;
+
+}
+#twentyeight{
+    position: absolute;    
+    left: 1100px;
+    top: 3000px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+ opacity:0;
+}
+#twentyfive:hover,#twentysix:hover,#twentyseven:hover,#twentyeight:hover,#twentynine:hover,#thirty:hover,#thirtyone:hover,#thirtytwo:hover{
+    opacity:1;
+}
+#twentynine{
+    position: absolute;    
+left: 330px;
+top: 3450px;
+width: 200px;
+border-radius: 10px;
+font-weight: 900;
+background:black;
+color:white;
+opacity:0;
+
+}
+#thirty{
+    position: absolute;    
+    left: 580px;
+    top: 3450px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background:black;
+color:white;
+opacity:0;
+
+}
+#thirtyone{
+    position: absolute;    
+    left: 840px;
+    top: 3450px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background:black;
+color:white;
+opacity:0;
+
+}
+#thirtytwo{
+    position: absolute;    
+    left: 1080px;
+    top: 3450px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background:black;
+color:white;
+opacity:0;
+}
+#thirtythree{
+    position: absolute;    
+    left: 330px;
+    top: 3900px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+ background: black;
+ color:white;
+ opacity:0;
+}
+#thirtyfour{
+    position: absolute;    
+    left: 580px;
+    top: 3900px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;
+    
+}
+#thirtyfive{
+    position: absolute;    
+    left: 830px;
+    top: 3900px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;
+    
+}
+#thirtysix{
+    position: absolute;    
+    left: 1090px;
+    top: 3900px;
+    width: 200px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;   
+}
+#thirtythree:hover,#thirtyfour:hover,#thirtyfive:hover,#thirtysix:hover{
+    opacity:1;
 }
