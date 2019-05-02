@@ -711,3 +711,66 @@ button:hover{
         color:grey; 
 
     }
+#one{
+    position: absolute;    
+    left: 320px;
+    top: 370px;
+    width: 220px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;
+    
+}
+#one:hover,  #two:hover,#three:hover,#four:hover,#five:hover{
+    opacity:1;
+}
+#two{
+    position: absolute;    
+    left: 570px;
+    top: 370px;
+    width: 220px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0
+}   
+
+#three{
+    position: absolute;    
+    left: 830px;
+    top: 370px;
+    width: 220px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color:white;
+    opacity:0;
+}
+
+#four{
+    position: absolute;    
+    left: 1080px;
+    top: 370px;
+    width: 220px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+}
+
+#five{
+    position: absolute;    
+    left: 310px;
+    top: 830px;
+    width: 220px;
+    border-radius: 10px;
+    font-weight: 900;
+    background: black;
+    color: white;
+    opacity:0;
+
+}
