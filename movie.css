@@ -711,7 +711,7 @@ button:hover{
         color:grey; 
 
     }
-#one{
+.one{
     position: absolute;    
     left: 320px;
     top: 370px;
@@ -722,6 +722,9 @@ button:hover{
     color:white;
     opacity:0;
     
+}
+.one:hover {
+    opacity:1;
 }
 #one:hover,  #two:hover,#three:hover,#four:hover,#five:hover,#six:hover,#seven:hover,#eight:hover,#nine:hover,#ten:hover,#eleven:hover{
     opacity:1;
